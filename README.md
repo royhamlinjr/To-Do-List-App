@@ -76,7 +76,15 @@ _No dependencies or additional configuration required._
 - Smooth gradients and clean typography
 - Fully responsive across devices
 
+---
 
+## 📸 Screenshots
+
+### 1. Home Screen
+![Home Screen](screenshots/home.png)
+
+### 2. Completed Task
+![Completed Task](screenshots/completed.png)
 
 ---
 
